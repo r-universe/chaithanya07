@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "KCSKNNShiny"]
+	path = KCSKNNShiny
+	url = https://github.com/cran/KCSKNNShiny
+	shallow = true
+	registered = true
 [submodule "KCSNBShiny"]
 	path = KCSNBShiny
 	url = https://github.com/chaithanya07/kcsnbshiny
